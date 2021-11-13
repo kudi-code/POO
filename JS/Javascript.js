@@ -1,0 +1,3 @@
+personalbar.prototype.walk = function(){
+
+}
